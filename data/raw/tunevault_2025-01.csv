@@ -1,0 +1,109 @@
+period;song_name;isrc;platform;territory;streams;net_revenue_eur
+01/2025;Northern Lines;DEXY12200005;spotify;United States;8569;27,508961
+01/2025;Northern Lines;DEXY12200005;spotify;United Kingdom;2865;8,613142
+01/2025;Northern Lines;DEXY12200005;spotify;Germany;2259;5,905057
+01/2025;Northern Lines;DEXY12200005;spotify;Brazil;2607;2,791109
+01/2025;Northern Lines;DEXY12200005;spotify;Nigeria;2128;1,715014
+01/2025;Northern Lines;DEXY12200005;spotify;Japan;2057;6,086499
+01/2025;Northern Lines;DEXY12200005;itunes/apple music;United States;2557;17,194751
+01/2025;Northern Lines;DEXY12200005;itunes/apple music;United Kingdom;1162;6,738866
+01/2025;Northern Lines;DEXY12200005;itunes/apple music;Germany;883;4,884207
+01/2025;Northern Lines;DEXY12200005;itunes/apple music;Brazil;887;2,041901
+01/2025;Northern Lines;DEXY12200005;itunes/apple music;Nigeria;693;1,132492
+01/2025;Northern Lines;DEXY12200005;itunes/apple music;Japan;726;4,054669
+01/2025;Northern Lines;DEXY12200005;youtube;United States;1836;3,506032
+01/2025;Northern Lines;DEXY12200005;youtube;United Kingdom;648;1,019330
+01/2025;Northern Lines;DEXY12200005;youtube;Germany;567;0,886105
+01/2025;Northern Lines;DEXY12200005;youtube;Brazil;538;0,345868
+01/2025;Northern Lines;DEXY12200005;youtube;Nigeria;376;0,177074
+01/2025;Northern Lines;DEXY12200005;youtube;Japan;395;0,642206
+01/2025;Northern Lines;DEXY12200005;amazon unlimited;United States;910;3,346676
+01/2025;Northern Lines;DEXY12200005;amazon unlimited;United Kingdom;371;1,212230
+01/2025;Northern Lines;DEXY12200005;amazon unlimited;Germany;320;0,957531
+01/2025;Northern Lines;DEXY12200005;amazon unlimited;Brazil;311;0,402958
+01/2025;Northern Lines;DEXY12200005;amazon unlimited;Nigeria;213;0,195670
+01/2025;Northern Lines;DEXY12200005;amazon unlimited;Japan;230;0,797317
+01/2025;Northern Lines;DEXY12200005;tidal hifi;United States;449;3,533747
+01/2025;Northern Lines;DEXY12200005;tidal hifi;United Kingdom;152;1,078695
+01/2025;Northern Lines;DEXY12200005;tidal hifi;Germany;127;0,921733
+01/2025;Northern Lines;DEXY12200005;tidal hifi;Brazil;147;0,445146
+01/2025;Northern Lines;DEXY12200005;tidal hifi;Nigeria;108;0,231973
+01/2025;Northern Lines;DEXY12200005;tidal hifi;Japan;106;0,801060
+01/2025;Northern Lines;DEXY12200005;deezer;United States;412;1,117539
+01/2025;Northern Lines;DEXY12200005;deezer;United Kingdom;172;0,440190
+01/2025;Northern Lines;DEXY12200005;deezer;Germany;138;0,317886
+01/2025;Northern Lines;DEXY12200005;deezer;Brazil;146;0,142257
+01/2025;Northern Lines;DEXY12200005;deezer;Nigeria;111;0,075443
+01/2025;Northern Lines;DEXY12200005;deezer;Japan;103;0,245227
+01/2025;Paper Satellites;DEXY12300006;spotify;United States;23456;75,682979
+01/2025;Paper Satellites;DEXY12300006;spotify;United Kingdom;9477;27,377596
+01/2025;Paper Satellites;DEXY12300006;spotify;Germany;6200;16,251316
+01/2025;Paper Satellites;DEXY12300006;spotify;Brazil;6894;7,691111
+01/2025;Paper Satellites;DEXY12300006;spotify;Nigeria;5046;3,858093
+01/2025;Paper Satellites;DEXY12300006;spotify;Japan;5667;16,824817
+01/2025;Paper Satellites;DEXY12300006;itunes/apple music;United States;7292;45,898153
+01/2025;Paper Satellites;DEXY12300006;itunes/apple music;United Kingdom;3102;18,292495
+01/2025;Paper Satellites;DEXY12300006;itunes/apple music;Germany;2449;13,730075
+01/2025;Paper Satellites;DEXY12300006;itunes/apple music;Brazil;2500;5,777145
+01/2025;Paper Satellites;DEXY12300006;itunes/apple music;Nigeria;2229;3,618696
+01/2025;Paper Satellites;DEXY12300006;itunes/apple music;Japan;2228;12,958538
+01/2025;Paper Satellites;DEXY12300006;youtube;United States;4452;8,493456
+01/2025;Paper Satellites;DEXY12300006;youtube;United Kingdom;1807;2,913682
+01/2025;Paper Satellites;DEXY12300006;youtube;Germany;1568;2,484854
+01/2025;Paper Satellites;DEXY12300006;youtube;Brazil;1753;1,095933
+01/2025;Paper Satellites;DEXY12300006;youtube;Nigeria;1072;0,498638
+01/2025;Paper Satellites;DEXY12300006;youtube;Japan;1234;2,102009
+01/2025;Paper Satellites;DEXY12300006;amazon unlimited;United States;2962;11,096804
+01/2025;Paper Satellites;DEXY12300006;amazon unlimited;United Kingdom;1000;3,356711
+01/2025;Paper Satellites;DEXY12300006;amazon unlimited;Germany;867;2,645768
+01/2025;Paper Satellites;DEXY12300006;amazon unlimited;Brazil;844;1,038781
+01/2025;Paper Satellites;DEXY12300006;amazon unlimited;Nigeria;638;0,563341
+01/2025;Paper Satellites;DEXY12300006;amazon unlimited;Japan;706;2,324141
+01/2025;Paper Satellites;DEXY12300006;tidal hifi;United States;1301;10,749383
+01/2025;Paper Satellites;DEXY12300006;tidal hifi;United Kingdom;435;3,124710
+01/2025;Paper Satellites;DEXY12300006;tidal hifi;Germany;420;2,810971
+01/2025;Paper Satellites;DEXY12300006;tidal hifi;Brazil;455;1,288149
+01/2025;Paper Satellites;DEXY12300006;tidal hifi;Nigeria;272;0,558830
+01/2025;Paper Satellites;DEXY12300006;tidal hifi;Japan;261;1,862793
+01/2025;Paper Satellites;DEXY12300006;deezer;United States;1049;2,809628
+01/2025;Paper Satellites;DEXY12300006;deezer;United Kingdom;449;1,145662
+01/2025;Paper Satellites;DEXY12300006;deezer;Germany;368;0,851095
+01/2025;Paper Satellites;DEXY12300006;deezer;Brazil;422;0,388048
+01/2025;Paper Satellites;DEXY12300006;deezer;Nigeria;268;0,189302
+01/2025;Paper Satellites;DEXY12300006;deezer;Japan;274;0,663842
+01/2025;Slow Bloom;DEXY12400007;spotify;United States;28504;93,361548
+01/2025;Slow Bloom;DEXY12400007;spotify;United Kingdom;10683;31,907244
+01/2025;Slow Bloom;;spotify;Germany;7876;21,840156
+01/2025;Slow Bloom;DEXY12400007;spotify;Brazil;7814;8,546347
+01/2025;Slow Bloom;DEXY12400007;spotify;Nigeria;6172;5,001947
+01/2025;Slow Bloom;DEXY12400007;spotify;Japan;7451;22,232509
+01/2025;Slow Bloom;DEXY12400007;itunes/apple music;United States;10844;70,864773
+01/2025;Slow Bloom;DEXY12400007;itunes/apple music;United Kingdom;3722;21,094914
+01/2025;Slow Bloom;DEXY12400007;itunes/apple music;Germany;3125;16,993293
+01/2025;Slow Bloom;DEXY12400007;itunes/apple music;Brazil;2983;6,968197
+01/2025;Slow Bloom;DEXY12400007;itunes/apple music;Nigeria;2365;3,914528
+01/2025;Slow Bloom;DEXY12400007;itunes/apple music;Japan;2652;15,993032
+01/2025;Slow Bloom;DEXY12400007;youtube;United States;6832;12,827628
+01/2025;Slow Bloom;DEXY12400007;youtube;United Kingdom;2547;4,418760
+01/2025;Slow Bloom;DEXY12400007;youtube;Germany;1857;2,932834
+01/2025;Slow Bloom;DEXY12400007;youtube;Brazil;1969;1,310377
+01/2025;Slow Bloom;DEXY12400007;youtube;Nigeria;1669;0,733171
+01/2025;Slow Bloom;DEXY12400007;youtube;Japan;1691;2,927434
+01/2025;Slow Bloom;DEXY12400007;amazon unlimited;United States;2996;11,076755
+01/2025;Slow Bloom;DEXY12400007;amazon unlimited;United Kingdom;1511;4,802730
+01/2025;Slow Bloom;DEXY12400007;amazon unlimited;Germany;988;2,941672
+01/2025;Slow Bloom;DEXY12400007;amazon unlimited;Brazil;1121;1,454934
+01/2025;Slow Bloom;DEXY12400007;amazon unlimited;Nigeria;914;0,857549
+01/2025;Slow Bloom;DEXY12400007;amazon unlimited;Japan;856;2,812962
+01/2025;Slow Bloom;DEXY12400007;tidal hifi;United States;1379;11,030567
+01/2025;Slow Bloom;DEXY12400007;tidal hifi;United Kingdom;505;3,779098
+01/2025;Slow Bloom;DEXY12400007;tidal hifi;Germany;499;3,458303
+01/2025;Slow Bloom;DEXY12400007;tidal hifi;Brazil;478;1,354144
+01/2025;Slow Bloom;DEXY12400007;tidal hifi;Nigeria;419;0,833746
+01/2025;Slow Bloom;;tidal hifi;Japan;322;2,431921
+01/2025;Slow Bloom;DEXY12400007;deezer;United States;1348;3,858553
+01/2025;Slow Bloom;DEXY12400007;deezer;United Kingdom;593;1,540930
+01/2025;Slow Bloom;DEXY12400007;deezer;Germany;403;0,909931
+01/2025;Slow Bloom;DEXY12400007;deezer;Brazil;535;0,534713
+01/2025;Slow Bloom;DEXY12400007;deezer;Nigeria;422;0,296476
+01/2025;Slow Bloom;DEXY12400007;deezer;Japan;426;1,069805
